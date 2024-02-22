@@ -19,152 +19,141 @@ redirect_from:
 
 I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ 
+I received a B.S. degree in Medical Information Engineering from Chengdu University of Traditional Chinese Medicine in 2022. Currently, I am working toward an M.S. degree in Management Science and Engineering at Chengdu University of Technology with an expected graduation in June 2025.
 
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
+Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, Computer Programming Languages, Big Data, and Artificial Intelligence—the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including Operations Research, Game Theory, System Dynamics, Spatial Econometrics, and Managerial Economics.
+
+Interests                                              Skills
+- Instrumentation                                      - Instrumentation
+- Nondestructive testing (NDT)                         - Nondestructive testing (NDT)
+- Magnetic flux leakage (MFL) detection                - Magnetic flux leakage (MFL) detection
+- Eddy current testing (ECT)                           - Eddy current testing (ECT)
 - Electromagnetic measurements
 - Magnetic sensors
 - Nondestructive testing equipment
 
 
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
-
 # 📝 Publications 
 
-### English 
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
 [[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
+[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+-	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
+- **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
+- **Resluts:** From 2005 to 2020, TWSCC in the Yellow River Basin experienced overload, mostly in “Heavy warning” or “Medium warning” states. By 2035, improvements were observed under different pathways, with the comprehensive scenario showing a 15.3% increase from 2020. This study supports the enhancement of the basin carrying capacity and integrated governance of the Three Waters. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[HTML]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[PDF]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+[Coupling Coordination Evaluation and Sustainable Development of “Three Waters” System and Impulse Response Analysis in the Yellow River Basin](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+-	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
+- **Methods:** Established a coupling coordination model and employed Vector Autoregression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
+- **Resluts:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production. 2023</div><img src='images/WEF.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209356) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[PDF]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+[Spatio-temporal Evolution Pattern and Obstacle Factors of Water-Energy-Food Nexus Coupling Coordination in the Yangtze River Economic Belt](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal of Cleaner Production*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+-	**Keywords:** WEF nexus, Coupling coordination degree, Spatio-temporal differentiation, Obstacle degree, Sustainable development
+- **Methods:** Developed a framework to categorise links within the Water-Energy-Food (WEF) nexus, selecting indicators and integrated models. Applied this framework to assess the degree of coordination and diagnose obstacles in the coupled development of the WEF nexus from 2000 to 2020 in the Yangtze River Economic Belt.
+- **Resluts:** Identified and analysed the evolution and obstacles in the coupled development of the WEF nexus, providing valuable insights into enhancing synergies and efficiencies in the Yangtze River Economic Belt.
 
 </div>
 </div>
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15(20): 7362. (JCR:Q1; IF:3.748)  
-[[HTML]](https://dx.doi.org/10.3390/ma15207362) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[PDF]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/HQD.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Coupling Coordination of Urban Economic High-Quality Development and Water Resource Carrying Capacity in the Yangtze River Basin: An Analysis of Influencing Factors](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+-	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
+- **Methods:** Utilised the CRITIC-TOPSIS method to compute comprehensive indices for high-quality economic development and water resource carrying capacity in 53 cities. Employed coupling models, coordination measures, and a random panel Tobit regression model to evaluate and analyse the spatiotemporal characteristics and influencing factors affecting coordination.
+- **Resluts:** Cities in the Yangtze River Basin exhibit an upgraded coupling coordination level, shifting from dispersion to concentration. Hotspots are concentrated downstream, while cold spots are in the middle and upper reaches. Regional aggregation capacity, economic development level, and urban greenery positively influence coordination in mainstream, tributary, and central basin cities, respectively. Environmental governance capacity negatively impacts coordination in tributary cities. The study provides decision-making references for planning and construction in the Yangtze River Basin cities.
+  
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/PWQ.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[HTML]](https://dx.doi.org/10.3390/app12199703) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[PDF]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+[Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*, 2023, 22(9): 3587. (JCR:Q2; IF:3.847)
+-	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
+- **Methods:** Developed a multi-objective optimisation model incorporating sewage discharge rights into watershed water resource allocation. Utilised the Gini coefficient to balance equity and economic aspects across water sectors, considering distinct water demands and sewage discharge requirements.
+- **Resluts:** (a) Simultaneous optimisation of Gini coefficients for water demand and sewage discharge rights allocation with consistent trends. (b) The increased importance of sewage discharge improves fairness in water distribution but reduces the return on investment for domestic and industrial water use. (c) Proper allocation of sewage discharge rights enhances the economic value of agricultural water use. This strategy holds promise for improving both equality and economic benefits in the water supply system, ensuring sustainable water and sewage rights utilisation in basin cities.
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[HTML]](https://dx.doi.org/10.3390/w14172736) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[PDF]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
+</div>
+</div>
 
+# 📝 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*. 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[PDF]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+[Research on Key Issues and Paths for Systemic Transformation in Sichuan Province under the Dual Carbon Goal](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	**Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
+- **Key Contributions:** (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province. (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022. (3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions. (4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
+- **Achievements:** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation (Project funding: RMB200,000).
 
+</div>
+</div>
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[PDF]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Study of the Allocation Strategy of Water Pollutant Emission Permits in Tuojiang River Basin by Coordinating Water Resources, Water Environment and Water Ecological Management](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	**Core Member**, **Supervisor:** `Xue Feng`, Deputy Sector Chief of the College of Management Science
+- **Key Contributions:** (1) Conducted literature review on three waters nexus, ecological compensation, and pollutant emission permits. (2) Collected and cleaned data for 17 years from six major cities in the Tuojiang River Basin. (3) Proposed integrating bidirectional ecological compensation mechanism with water pollutant emission permits allocation model. (4) Assisted in drafting the research results section and project report.
+- **Achievements:** Published a paper (co-author) - Feng, X., Li, Y., Chen, X., Lv, Y., `Zhang, Z`., & Chen, S. (2023). Study of the allocation strategy of water pollutant emission permits under a bidirectional ecological compensation mechanism. Ecological Indicators, 154, 110849.
 
+</div>
+</div>
 
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[HTML]](https://dx.doi.org/10.3233/JAE-209357) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[PDF]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Research of the Allocation Strategy of Water Pollutant Emission Permits Considering Ecological Compensation Mechanism Driven by Big Data - Taking Tuojiang River Basin as an Example](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	**Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
+- **Key Contributions:** (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap. (2) Assisted in developing a data-driven optimisation scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts. (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualisation, table creation, and writing the conclusion section of the paper.
+- **Achievements:** Published a paper (co-author) - Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
 
+</div>
+</div>
 
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[HTML]](https://dx.doi.org/10.3233/SAEM190009) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[PDF]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[HTML]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[PDF]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[HTML]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[PDF]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[HTML]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[PDF]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
-### Chinese
----
-
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
--	Bocheng Liu, `Jian Tang*`, Rongbiao Wang, Wenchao Ye, Yihua Kang. Magnetic Flux Leakage Testing Method of Bearing Roller Micro-cracks Based on TMR. *Instrument Technique and Sensor*. 2021(12): 111-114+118.   
-刘伯承, 唐健\*, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  
-[[HTML]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Shenghan Wang, `Jian Tang*`, Jun Liu, Wenyu Chen, Yihua Kang. Array Magnetic Flux Leakage Testing Method and System Based on Twin-Robot Operation for Bearings. *Bearing*. 2021(01): 54-58+65.  
-汪圣涵, 唐健\*, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
--	Yongle Deng, Rongbiao Wang, `Jian Tang`, Shenghan Wang, Yihua Kang. Magnetic bridge type displacement sensor array in square pulse magnetization. *Chinese Journal of Scientific Instrument*. 2021: 1–10. (EI)  
-邓永乐, 王荣彪, 唐健, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10.  
-[[HTML]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[PDF]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
--	Rongbiao Wang, Yihua Kang, Yongle Deng, Biyao Wang, Shenghan Wang, `Jian Tang`. Detection Method for Internal Wall Corrosion of Drill Pipes Based on MFL Testing under AC and DC Magnetization. *China Mechanical Engineering* . 2020: 1–6. (EI)  
-王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, 唐健. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6.  
-[[HTML]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	Bocheng Liu, Zhaoqi Duan, Chun Jiang, `Jian Tang`, Yihua Kang. Magnetic flux leakage detection of bearing roller microcracks. *Bearing*. 2021(08): 32–38.  
-刘伯承, 唐健, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) 
-
--	Bocheng Liu, `Jian Tang`, Rongbiao Wang, Yihua Kang, Ping Yu. Electromagnetic Detection Method for Microcracks on Steel Balls Based on Alternating Current Energization. *Nondestructive Testing*. 2022, 44(11): 1-5.  
-刘伯承, 段兆祺, 姜春, 唐健, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202211001) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[PDF]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-
--	Jie Meng, Erlong Li, `Jian Tang`, Yihua Kang. High Speed Magnetic Flux Leakage Detection System for Microcracks on Bearing Rings. *Bearing*. 2018(08): 66–70.  
-孟杰, 李二龙, 唐健, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70.  
-[[HTML]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
--	Hang Yang, Shenghan Wang, `Jian Tang`, Yihua Kang. Automatic eddy current testing method and system for camshaft. *Nondestructive Testing*. 2020, 42(11): 61.  
-杨航, 汪圣涵, 唐健, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202011013) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[PDF]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
+# 🎓 Educations 
+- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Management Science and Engineering, Chengdu University of Technology, Chengdu China.
+- *2018.09 - 2022.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu China. 
 
 # 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
-
-# 💬 Conferences
-
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
-
-
+- *2021.10* Win the `Excellent Award` in China National Undergraduate “Innovation, Creativity and Entrepreneurship” Challenge.
+- *2021.08* **Team Leader**, Win the `National-level First Prize (Top 5%)` in the 14th Chinese Collegiate Computing Competition.
+- *2021.05* **Team Leader**, Win the `Provincial-level Second Prize (Top 20%)` in the 14th Chinese Collegiate Computing Competition.
+- *2023.09* Third-Class Graduate Academic Scholarship.
+- *2023.09* Technological Innovation Scholarship.
+- *2021.05* Second-Class College Academic Scholarship.
+- *2020.12* Third-Class College Academic Scholarship.
+- *2020.06* Third-Class College Academic Scholarship.
+- *2019.09* Second-Class College Academic Scholarship.
+ 
 # 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+- *2021.09 - 2022.04*, Yibin The Second Hospital of T. C. M., China.
+- **Information Science Staff**
+- Managed comprehensive information processes in a medical setting, including collection, processing, transmission, storage, and retrieval of management data.
+- Oversaw computer applications for healthcare management, establishing individual accounts for medical insurance purposes.
+- Ensured the secure operation of hospital information systems, maintaining seamless business operations.
+- Organised and analysed work-related information, conducting various statistical analyses.
+- Led the filing and preservation of medical records, ensuring accessibility.
+
   
