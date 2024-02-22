@@ -22,7 +22,7 @@ I graduated from School of Mechanical Science and Engineering,  Huazhong Univers
  
 I received a B.S. degree in Medical Information Engineering from Chengdu University of Traditional Chinese Medicine in 2022. Currently, I am working toward an M.S. degree in Management Science and Engineering at Chengdu University of Technology with an expected graduation in June 2025.
 
-Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, Computer Programming Languages, Big Data, and Artificial Intelligence—the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including Operations Research, Game Theory, System Dynamics, Spatial Econometrics, and Managerial Economics.
+Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, **Computer Programming Languages**, **Big Data**, and **Artificial Intelligence**——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including **Operations Research**, **Game Theor**y, **System Dynamics**, **Spatial Econometrics**, and **Managerial Economics**.
 
 Interests                                              Skills
 - Instrumentation                                      - Instrumentation
@@ -36,7 +36,7 @@ Interests                                              Skills
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management. 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
@@ -151,11 +151,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
  
 # 🏭 Internships
 - *2021.09 - 2022.04*, Yibin The Second Hospital of T. C. M., China.
-- **Information Science Staff**
-- Managed comprehensive information processes in a medical setting, including collection, processing, transmission, storage, and retrieval of management data.
-- Oversaw computer applications for healthcare management, establishing individual accounts for medical insurance purposes.
-- Ensured the secure operation of hospital information systems, maintaining seamless business operations.
-- Organised and analysed work-related information, conducting various statistical analyses.
-- Led the filing and preservation of medical records, ensuring accessibility.
+  **Information Science Staff**
+- **Main tasks:** (1) Managed comprehensive information processes in a medical setting, including collection, processing, transmission, storage, and retrieval of management data. (2) Oversaw computer applications for healthcare management, establishing individual accounts for medical insurance purposes. (3) Ensured the secure operation of hospital information systems, maintaining seamless business operations. (4) Organised and analysed work-related information, conducting various statistical analyses. (5) Led the filing and preservation of medical records, ensuring accessibility.
 
   
