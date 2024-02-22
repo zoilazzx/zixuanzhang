@@ -100,7 +100,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 </div>
 </div>
 
-# 📝 Projects
+# 🏛️ Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -135,22 +135,23 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 </div>
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Management Science and Engineering, Chengdu University of Technology, Chengdu China.
-- *2018.09 - 2022.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu China. 
+- *2016.06 - 2022.12*, Master, School of Management Science and Engineering, Chengdu University of Technology, Chengdu China.
+- *2018.09 - 2022.06*, Undergraduate, School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu China. 
 
 # 🏅 Honors and Awards
-- *2021.10* Win the `Excellent Award` in China National Undergraduate “Innovation, Creativity and Entrepreneurship” Challenge.
-- *2021.08* **Team Leader**, Win the `National-level First Prize (Top 5%)` in the 14th Chinese Collegiate Computing Competition.
-- *2021.05* **Team Leader**, Win the `Provincial-level Second Prize (Top 20%)` in the 14th Chinese Collegiate Computing Competition.
-- *2023.09* Third-Class Graduate Academic Scholarship (Top 5%)
-- *2023.09* Technological Innovation Scholarship (Top 5%)
-- *2021.05* Second-Class College Academic Scholarship (Top 5%)
-- *2020.12* Third-Class College Academic Scholarship (Top 10%)
-- *2020.06* Third-Class College Academic Scholarship (Top 10%)
-- *2019.09* Second-Class College Academic Scholarship (Top 5%)
+- *2021.10* `Excellent Award` in China National Undergraduate “Innovation, Creativity and Entrepreneurship” Challenge.
+- *2021.08* **Team Leader**, `National-level First Prize (Top 5%)` in the 14th Chinese Collegiate Computing Competition.
+- *2021.05* **Team Leader**, `Provincial-level Second Prize (Top 20%)` in the 14th Chinese Collegiate Computing Competition.
+- *2023.09* Third-Class Graduate Academic Scholarship (Top 5%).
+- *2023.09* Technological Innovation Scholarship (Top 5%).
+- *2021.05* Second-Class College Academic Scholarship (Top 5%).
+- *2020.12* Third-Class College Academic Scholarship (Top 10%).
+- *2020.06* Third-Class College Academic Scholarship (Top 10%).
+- *2019.09* Second-Class College Academic Scholarship (Top 5%).
  
-# 🏭 Internships
+# 💻 Internships
 - *2021.09 - 2022.04*, Yibin The Second Hospital of T. C. M., China.
+
   **Information Science Staff**
 - **Main tasks:** (1) Managed comprehensive information processes in a medical setting, including collection, processing, transmission, storage, and retrieval of management data. (2) Oversaw computer applications for healthcare management, establishing individual accounts for medical insurance purposes. (3) Ensured the secure operation of hospital information systems, maintaining seamless business operations. (4) Organised and analysed work-related information, conducting various statistical analyses. (5) Led the filing and preservation of medical records, ensuring accessibility.
 
