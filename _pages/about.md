@@ -142,12 +142,12 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 - *2021.10* Win the `Excellent Award` in China National Undergraduate “Innovation, Creativity and Entrepreneurship” Challenge.
 - *2021.08* **Team Leader**, Win the `National-level First Prize (Top 5%)` in the 14th Chinese Collegiate Computing Competition.
 - *2021.05* **Team Leader**, Win the `Provincial-level Second Prize (Top 20%)` in the 14th Chinese Collegiate Computing Competition.
-- *2023.09* Third-Class Graduate Academic Scholarship.
-- *2023.09* Technological Innovation Scholarship.
-- *2021.05* Second-Class College Academic Scholarship.
-- *2020.12* Third-Class College Academic Scholarship.
-- *2020.06* Third-Class College Academic Scholarship.
-- *2019.09* Second-Class College Academic Scholarship.
+- *2023.09* Third-Class Graduate Academic Scholarship (Top 5%)
+- *2023.09* Technological Innovation Scholarship (Top 5%)
+- *2021.05* Second-Class College Academic Scholarship (Top 5%)
+- *2020.12* Third-Class College Academic Scholarship (Top 10%)
+- *2020.06* Third-Class College Academic Scholarship (Top 10%)
+- *2019.09* Second-Class College Academic Scholarship (Top 5%)
  
 # 🏭 Internships
 - *2021.09 - 2022.04*, Yibin The Second Hospital of T. C. M., China.
