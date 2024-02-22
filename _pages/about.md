@@ -40,6 +40,7 @@ Interests                                              Skills
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 `Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
 -	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
 - **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
@@ -51,6 +52,7 @@ Interests                                              Skills
 <div class='paper-box-text' markdown="1">
 
 [Coupling Coordination Evaluation and Sustainable Development of “Three Waters” System and Impulse Response Analysis in the Yellow River Basin](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
 -	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
 - **Methods:** Established a coupling coordination model and employed Vector Autoregression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
@@ -63,6 +65,7 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 <div class='paper-box-text' markdown="1">
 
 [Spatio-temporal Evolution Pattern and Obstacle Factors of Water-Energy-Food Nexus Coupling Coordination in the Yangtze River Economic Belt](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal of Cleaner Production*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
 -	**Keywords:** WEF nexus, Coupling coordination degree, Spatio-temporal differentiation, Obstacle degree, Sustainable development
 - **Methods:** Developed a framework to categorise links within the Water-Energy-Food (WEF) nexus, selecting indicators and integrated models. Applied this framework to assess the degree of coordination and diagnose obstacles in the coupled development of the WEF nexus from 2000 to 2020 in the Yangtze River Economic Belt.
@@ -75,6 +78,7 @@ Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal
 <div class='paper-box-text' markdown="1">
   
 [Coupling Coordination of Urban Economic High-Quality Development and Water Resource Carrying Capacity in the Yangtze River Basin: An Analysis of Influencing Factors](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
 -	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
 - **Methods:** Utilised the CRITIC-TOPSIS method to compute comprehensive indices for high-quality economic development and water resource carrying capacity in 53 cities. Employed coupling models, coordination measures, and a random panel Tobit regression model to evaluate and analyse the spatiotemporal characteristics and influencing factors affecting coordination.
@@ -87,6 +91,7 @@ Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Socie
 <div class='paper-box-text' markdown="1">
 
 [Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*, 2023, 22(9): 3587. (JCR:Q2; IF:3.847)
 -	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
 - **Methods:** Developed a multi-objective optimisation model incorporating sewage discharge rights into watershed water resource allocation. Utilised the Gini coefficient to balance equity and economic aspects across water sectors, considering distinct water demands and sewage discharge requirements.
