@@ -101,7 +101,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 </div>
 
 # 🏛️ Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 [Research on Key Issues and Paths for Systemic Transformation in Sichuan Province under the Dual Carbon Goal](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
