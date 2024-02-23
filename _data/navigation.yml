@@ -7,7 +7,7 @@ main:
     url: "/zixuanzhang/#-publications"
     
   - title: "Projects"
-    url: /zixuanzhang/project
+    url: /zixuanzhang/project/
 
   - title: "Educations"
     url: "/zixuanzhang/#-educations"
