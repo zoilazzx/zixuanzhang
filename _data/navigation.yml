@@ -7,7 +7,7 @@ main:
     url: "/zixuanzhang/#-publications"
     
   - title: "Projects"
-    url: "/zixuanzhang/#projects"
+    url: /zixuanzhang/project
 
   - title: "Educations"
     url: "/zixuanzhang/#-educations"
@@ -17,5 +17,4 @@ main:
 
   - title: "Internships"
     url: "/zixuanzhang/#-internships"
-  - title: "Ces"
-    url: /zixuanzhang/ces
+
