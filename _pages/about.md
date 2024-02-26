@@ -35,7 +35,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*, 2023, 22(9): 3587. (SJR:Q1)
 -	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
 - **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
 - **Resluts:** From 2005 to 2020, TWSCC in the Yellow River Basin experienced overload, mostly in “Heavy warning” or “Medium warning” states. By 2035, improvements were observed under different pathways, with the comprehensive scenario showing a 15.3% increase from 2020. This study supports the enhancement of the basin carrying capacity and integrated governance of the Three Waters. 
@@ -45,9 +45,9 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Coupling Coordination Evaluation and Sustainable Development of “Three Waters” System and Impulse Response Analysis in the Yellow River Basin](/zixuanzhang/pdf/THW.pdf)
+[Coupling Coordination Evaluation and Sustainable Development of “Three Waters” System and Impulse Response Analysis in the Yellow River Basin](https://doi.org/10.1016/j.scs.2024.105174)
 
-Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*, 2023, 22(9): 3587. (SJR:Q1)
 -	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
 - **Methods:** Established a coupling coordination model and employed Vector Autoregression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
 - **Resluts:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
@@ -60,7 +60,7 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 
 [Spatio-temporal Evolution Pattern and Obstacle Factors of Water-Energy-Food Nexus Coupling Coordination in the Yangtze River Economic Belt](https://doi.org/10.1016/j.jclepro.2024.141229)
 
-Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal of Cleaner Production*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal of Cleaner Production*, 2023, 22(9): 3587. (SJR:Q1)
 -	**Keywords:** WEF nexus, Coupling coordination degree, Spatio-temporal differentiation, Obstacle degree, Sustainable development
 - **Methods:** Developed a framework to categorise links within the Water-Energy-Food (WEF) nexus, selecting indicators and integrated models. Applied this framework to assess the degree of coordination and diagnose obstacles in the coupled development of the WEF nexus from 2000 to 2020 in the Yangtze River Economic Belt.
 - **Resluts:** Identified and analysed the evolution and obstacles in the coupled development of the WEF nexus, providing valuable insights into enhancing synergies and efficiencies in the Yangtze River Economic Belt.
@@ -73,7 +73,7 @@ Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal
   
 [Coupling Coordination of Urban Economic High-Quality Development and Water Resource Carrying Capacity in the Yangtze River Basin: An Analysis of Influencing Factors](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*, 2023, 22(9): 3587. (JCR:Q1; IF:3.847)
+Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*, 2023, 22(9): 3587. (SJR:Q1)
 -	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
 - **Methods:** Utilised the CRITIC-TOPSIS method to compute comprehensive indices for high-quality economic development and water resource carrying capacity in 53 cities. Employed coupling models, coordination measures, and a random panel Tobit regression model to evaluate and analyse the spatiotemporal characteristics and influencing factors affecting coordination.
 - **Resluts:** Cities in the Yangtze River Basin exhibit an upgraded coupling coordination level, shifting from dispersion to concentration. Hotspots are concentrated downstream, while cold spots are in the middle and upper reaches. Regional aggregation capacity, economic development level, and urban greenery positively influence coordination in mainstream, tributary, and central basin cities, respectively. Environmental governance capacity negatively impacts coordination in tributary cities. The study provides decision-making references for planning and construction in the Yangtze River Basin cities.
@@ -84,9 +84,9 @@ Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Socie
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/PWQ.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](/zixuanzhang/pdf/COAWRS.pdf)
+[Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](/zixuanzhang/pdf/COARW.pdf)
 
-Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*, 2023, 22(9): 3587. (JCR:Q2; IF:3.847)
+Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*, 2023, 22(9): 3587. (SJR:Q2)
 -	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
 - **Methods:** Developed a multi-objective optimisation model incorporating sewage discharge rights into watershed water resource allocation. Utilised the Gini coefficient to balance equity and economic aspects across water sectors, considering distinct water demands and sewage discharge requirements.
 - **Resluts:** (a) Simultaneous optimisation of Gini coefficients for water demand and sewage discharge rights allocation with consistent trends. (b) The increased importance of sewage discharge improves fairness in water distribution but reduces the return on investment for domestic and industrial water use. (c) Proper allocation of sewage discharge rights enhances the economic value of agricultural water use. This strategy holds promise for improving both equality and economic benefits in the water supply system, ensuring sustainable water and sewage rights utilisation in basin cities.
