@@ -18,4 +18,4 @@ In the context of the "Three Lines and One List" basin management framework, thi
 
 **Achievements:** 
 - Published one journal paper named
-[Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation](https://doi.org/10.1016/j.eti.2023.103103)
+[Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation](https://doi.org/10.1016/j.eti.2023.103103).
