@@ -16,5 +16,4 @@ As the problem of climate warming becomes more and more prominent, the path of l
 
 **Key words:** Dual Carbon Target, Low Carbon Transition, Scenario Analysis, Pathway Research
 
-**Achievements:** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation (Project funding: RMB200,000)
-
+**Achievements:** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation. 
