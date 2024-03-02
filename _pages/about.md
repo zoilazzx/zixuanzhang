@@ -50,7 +50,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 
 Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*. (SJR:Q1)
 -	**Keywords:** "Three Water" system, Coupled coordination, Impulse response, Evaluation indicator, Yellow River Basin
-- **Methods:** Established a coupling coordination model and employed Vector Autoregression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
+- **Methods:** Established a coupling coordination model and employed Vector Auto Regression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
 - **Resluts:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
 
 </div>
@@ -113,6 +113,11 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 - **Key Contributions:** (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap. (2) Assisted in developing a data-driven optimisation scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts. (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualisation, table creation, and writing the conclusion section of the paper.
 - **Achievements:** Published a paper (co-author) - Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
 
+[Chronic Gastritis AI Data Mining and Processing](/zixuanzhang/project4)
+-	**Team Leader**, **Supervisor:** `Chuanbiao Wen`, Vice President of the College of Medical Information Engineering
+- **Key Contributions:** (1) Conducted literature review on chronic gastritis pathology and AI data analysis, identifying research gaps. (2) Collected and anonymised data from 210 chronic gastritis cases. (3) Utilised SPSS for statistical data analysis and Origin for data visualisation. (4) Coordinated team tasks, supervised team members, and conducted weekly work progress presentations.
+- **Achievements:** (1) Co-authored a project proposal. (2) Awarded the National-level First Prize in the 14th China Collegiate Computing Design Competition.
+
 # 🎓 Educations 
 - *2022.09 - 2025.06*, Master, School of Management Science and Engineering, Chengdu University of Technology, Chengdu China.
 - *2018.09 - 2022.06*, Undergraduate, School of Intelligent Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu China. 
@@ -121,7 +126,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 - *2023.09* Third-Class Graduate Academic Scholarship (Top 5%).
 - *2021.10* Excellent Award in China National Undergraduate “Innovation, Creativity and Entrepreneurship” Challenge.
 - *2021.09* Technological Innovation Scholarship (Top 5%).
-- *2021.07* **Team Leader**, National-level First Prize (Top 5%) in the 14th Chinese Collegiate Computing Competition.
+- *2021.08* **Team Leader**, National-level First Prize (Top 5%) in the 14th Chinese Collegiate Computing Competition.
 - *2021.05* **Team Leader**, Provincial-level Second Prize (Top 20%) in the 14th Chinese Collegiate Computing Competition.
 - *2021.05* Second-Class College Academic Scholarship (Top 5%).
 - *2020.12* Third-Class College Academic Scholarship (Top 10%).
