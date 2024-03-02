@@ -88,7 +88,7 @@ Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Socie
 [Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](https://link.springer.com/article/10.1007/s11356-023-28664-w)
 
 Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*. (SJR:Q2)
--	**Keywords:** Water， Sewage discharge right， Collaborative allocation， Equity， Multi-objective optimization
+-	**Keywords:** Water, Sewage discharge right, Collaborative allocation, Equity， Multi-objective optimization
 - **Methods:** Developed a multi-objective optimisation model incorporating sewage discharge rights into watershed water resource allocation. Utilised the Gini coefficient to balance equity and economic aspects across water sectors, considering distinct water demands and sewage discharge requirements.
 - **Resluts:** (a) Simultaneous optimisation of Gini coefficients for water demand and sewage discharge rights allocation with consistent trends. (b) The increased importance of sewage discharge improves fairness in water distribution but reduces the return on investment for domestic and industrial water use. (c) Proper allocation of sewage discharge rights enhances the economic value of agricultural water use. This strategy holds promise for improving both equality and economic benefits in the water supply system, ensuring sustainable water and sewage rights utilisation in basin cities.
 
@@ -111,7 +111,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 [Research of the Allocation Strategy of Water Pollutant Emission Permits Considering Ecological Compensation Mechanism Driven by Big Data - Taking Tuojiang River Basin as an Example](/zixuanzhang/project3)
 -	**Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
 - **Key Contributions:** (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap. (2) Assisted in developing a data-driven optimisation scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts. (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualisation, table creation, and writing the conclusion section of the paper.
-- **Achievements:** Published a paper (co-author) - Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
+- **Achievements:** Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
 
 [Chronic Gastritis AI Data Mining and Processing](/zixuanzhang/project4)
 -	**Team Leader**, **Supervisor:** `Chuanbiao Wen`, Vice President of the College of Medical Information Engineering
