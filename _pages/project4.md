@@ -8,7 +8,7 @@ author_profile: true
 
 <p style="font-family: 'Arial', sans-serif; font-size: 24px;">Chronic Gastritis AI Data Mining and Processing</p>
 
-<span style="color: grey;">Jan, 2024 —— Jun, 2021</span>
+<span style="color: grey;">Mar, 2021 —— Jun, 2021</span>
 
 <span style="font-size:20px;">**Abstract**</span>
 
@@ -16,4 +16,6 @@ The path of low-carbon development has emerged as a critical strategic issue of 
 
 **Key words:** Dual carbon target, Low carbon transition, Scenario analysis, Pathway research
 
-**Achievements:** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation. 
+**Achievements:** 
+- Co-authored a project proposal.
+- Awarded the National-level First Prize in the 14th China Collegiate Computing Design Competition.
