@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-<p style="font-family: 'Arial', sans-serif; font-size: 22px;">Analysis on the coupling coordination characteristics and key factors between high-quality economic development and water resource carrying capacity 
+<p style="font-family: 'Arial', sans-serif; font-size: 22px;">Analysis on the coupling coordination characteristics and key factors between high-quality economic development and water resource carrying capacity 
 for cities in the Yangtze River Basin</p>
 
 <span style="color: grey;">Nov,2023</span>
@@ -14,7 +14,8 @@ for cities in the Yangtze River Basin</p>
   <img src='images/highQ.png' alt="sym" width="60%">
 </div>
 
-**Highlights:** 
+<span style="font-size:20px;">**Highlights**</span>
+
 - A comprehensive research framework was constructed to improve accuracy and 
 objectivity.
 - The CCD is upgraded towards primary and intermediate coordination.
