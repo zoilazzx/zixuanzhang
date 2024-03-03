@@ -47,7 +47,7 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management. 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/)
+[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/zixuanzhang/publication1)
 
 `Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*. (SJR:Q1)
 -	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
@@ -72,7 +72,7 @@ Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/HQD.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Coupling Coordination of Urban Economic High-Quality Development and Water Resource Carrying Capacity in the Yangtze River Basin: An Analysis of Influencing Factors](/pdf/)
+[Coupling Coordination of Urban Economic High-Quality Development and Water Resource Carrying Capacity in the Yangtze River Basin: An Analysis of Influencing Factors](/zixuanzhang/publication2)
 
 Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*. (SJR:Q1)
 -	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
