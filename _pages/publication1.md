@@ -14,7 +14,8 @@ and Path Evolution Study: A Case of the Yellow River Basin</p>
   <img src='images/Graphical Abstract.jpg' alt="sym" width="60%">
 </div>
 
-**Highlights:** 
+<span style="font-size:20px;">**Highlights**</span>
+
 - The spatiotemporal evolution characteristics of the "Three Waters" carrying capacity 
 are analyzed.
 - Alert identification and warning analysis of the carrying capacity are conducted.
@@ -47,5 +48,6 @@ TWSCC index reached 0.67 in the comprehensive development scenario, marking a
 15.3% increase from the 2020 levels. In summary, this paper offers theoretical and 
 methodological support for the development of basin carrying capacity and the 
 integrated governance of the "Three Waters".
+
 **Key words:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway 
 Evolution, System Dynamics
