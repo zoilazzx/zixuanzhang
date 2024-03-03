@@ -41,5 +41,6 @@ aggregation capacity, technological investment level, and the regional greening 
 of the TC and LLC. Therefore, regional managers should focus on the key factors of 
 different regions to realize the coordinated development of HED and WRCC in the 
 YRBC.
+
 **Key words:** Yangtze River Basin cities, High-quality economic development, 
 Water resources carrying capacity, Coupling coordination, Key factors
