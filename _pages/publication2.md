@@ -11,7 +11,7 @@ for cities in the Yangtze River Basin</p>
 <span style="color: grey;">Nov,2023</span>
 
 <div align="center">
-  <img src='images/highQ.jpg' alt="sym" width="60%">
+  <img src='images/highQ.png' alt="sym" width="60%">
 </div>
 
 **Highlights:** 
