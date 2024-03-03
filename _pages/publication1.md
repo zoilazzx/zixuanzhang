@@ -5,14 +5,14 @@ excerpt: ""
 author_profile: true
 ---
 
-
 <p style="font-family: 'Arial', sans-serif; font-size: 22px;">Comprehensive Evaluation of "Three Waters" Carrying Capacity 
 and Path Evolution Study: A Case of the Yellow River Basin</p>
 
-<span style="color: grey;">Jan, 2024 —— Dec, 2025</span>
+<span style="color: grey;">Dec,2023</span>
 
-
-<img src='images/CCP.svg' alt="sym" width="100%">
+<div align="center">
+  <img src='images/Graphical Abstract.jpg' alt="sym" width="60%">
+</div>
 
 **Highlights:** 
 - The spatiotemporal evolution characteristics of the "Three Waters" carrying capacity 
