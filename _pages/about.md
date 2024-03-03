@@ -31,18 +31,6 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 - Multi-objective decision making&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; SPSS
   
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management. 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/)
-
-`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*. (SJR:Q1)
--	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
-- **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
-- **Resluts:** From 2005 to 2020, TWSCC in the Yellow River Basin experienced overload, mostly in “Heavy warning” or “Medium warning” states. By 2035, improvements were observed under different pathways, with the comprehensive scenario showing a 15.3% increase from 2020. This study supports the enhancement of the basin carrying capacity and integrated governance of the Three Waters. 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +41,18 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 - **Methods:** Established a coupling coordination model and employed Vector Auto Regression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
 - **Resluts:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management. 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/pdf/)
+
+`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Journal of Environment Management*. (SJR:Q1)
+-	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
+- **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
+- **Resluts:** From 2005 to 2020, TWSCC in the Yellow River Basin experienced overload, mostly in “Heavy warning” or “Medium warning” states. By 2035, improvements were observed under different pathways, with the comprehensive scenario showing a 15.3% increase from 2020. This study supports the enhancement of the basin carrying capacity and integrated governance of the Three Waters. 
 </div>
 </div>
 
