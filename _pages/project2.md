@@ -8,7 +8,8 @@ author_profile: true
 
 <p style="font-family: 'Arial', sans-serif; font-size: 24px;">Study of the Allocation Strategy of Water Pollutant Emission Permits in Tuojiang River Basin by Coordinating Water Resources, Water Environment and Water Ecological Management </p>
 
-<span style="color: grey;">Jun, 2023 —— Dec, 2024</span>
+<span style="color: grey;">Jun, 2023 —— Dec, 2024</span>, `Key Research Base in Humanities and Social Sciences of Sichuan Provincial Department of Education
+Tujiang River Basin High-Quality Development Research Center Project`
 
 <span style="font-size:20px;">**Abstract**</span>
 
