@@ -8,7 +8,8 @@ author_profile: true
 
 <p style="font-family: 'Arial', sans-serif; font-size: 24px;">Research of the Allocation Strategy of Water Pollutant Emission Permits Considering Ecological Compensation Mechanism Driven by Big Data - Taking Tuojiang River Basin as an Example</p>
 
-<span style="color: grey;">Nov, 2022 —— Dec, 2024</span>
+<span style="color: grey;">Nov, 2022 —— Dec, 2024</span>, 
+`"Double First Class" construction of Philosophy and Social Sciences Key Construction Project`
 
 <span style="font-size:20px;">**Abstract**</span>
 
