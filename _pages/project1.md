@@ -8,7 +8,7 @@ author_profile: true
 
 <p style="font-family: 'Arial', sans-serif; font-size: 24px;">Research on Key Issues and Paths for Systemic Transformation in Sichuan Province under the Dual Carbon Goal</p>
 
-<span style="color: grey;">Jan, 2024 —— Dec, 2025</span>
+<span style="color: grey;">Jan, 2024 —— Dec, 2025</span>, `Sichuan Provincial Natural Science Foundation Project`
 
 <span style="font-size:20px;">**Abstract**</span>
 
