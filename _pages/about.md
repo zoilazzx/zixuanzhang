@@ -139,4 +139,8 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
   **Information Science Staff**
 - **Main tasks:** (1) Managed comprehensive information processes in a medical setting, including collection, processing, transmission, storage, and retrieval of management data. (2) Oversaw computer applications for healthcare management, establishing individual accounts for medical insurance purposes. (3) Ensured the secure operation of hospital information systems, maintaining seamless business operations. (4) Organised and analysed work-related information, conducting various statistical analyses. (5) Led the filing and preservation of medical records, ensuring accessibility.
 
+# 🗺️ Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+  
+
   
