@@ -141,7 +141,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 # 🗺️ Visitor Map
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5vy7xscsepn&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<a href="https://info.flagcounter.com/9lv2"><img src="https://s11.flagcounter.com/map/9lv2/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 **Total Views:** ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fzoilazzx.github.io%2Fzixuanzhang%2F&countColor=%23263759)
   
