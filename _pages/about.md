@@ -140,11 +140,11 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 - **Main tasks:** (1) Managed comprehensive information processes in a medical setting, including collection, processing, transmission, storage, and retrieval of management data. (2) Oversaw computer applications for healthcare management, establishing individual accounts for medical insurance purposes. (3) Ensured the secure operation of hospital information systems, maintaining seamless business operations. (4) Organised and analysed work-related information, conducting various statistical analyses. (5) Led the filing and preservation of medical records, ensuring accessibility.
 
 # 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54e0ojatafc&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54e0ojatafc&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 **Total Views:** ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fzoilazzx.github.io%2Fzixuanzhang%2F&countColor=%23263759)
 
-
+<a href="http://s11.flagcounter.com/more/Ge"><img src="https://s11.flagcounter.com/map/Ge/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
   
 
   
