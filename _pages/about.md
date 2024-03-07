@@ -72,7 +72,7 @@ Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/HQD.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Coupling Coordination of Urban Economic High-Quality Development and Water Resource Carrying Capacity in the Yangtze River Basin: An Analysis of Influencing Factors](/zixuanzhang/publication2)
+[Analysis on the coupling coordination characteristics and key factors between high-quality economic development and water resource carrying capacity for cities in the Yangtze River Basin](/zixuanzhang/publication2)
 
 Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*. (SJR:Q1)
 -	**Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
