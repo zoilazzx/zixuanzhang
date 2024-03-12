@@ -21,7 +21,7 @@ I received a B.S. degree in Medical Information Engineering from Chengdu Univers
 
 Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, **Computer Programming Languages**, **Big Data**, and **Artificial Intelligence**——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including **Operations Research**, **Game Theor**y, **System Dynamics**, **Spatial Econometrics**, and **Managerial Economics**.
 
-**Here is my:** [curriculum vitae](/zixuanzhang/pdf/Zixuan ZHANG-CV.pdf)
+**Here is my:** [curriculum vitae](/zixuanzhang/pdf/Zixuan ZHANG--CV.pdf)
 
 **Interests**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Skills**
 - Environmental and natural resource management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; ArcGis
@@ -31,7 +31,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 - Multi-objective decision making&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; SPSS
   
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2023</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Cities and Society. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Coupling Coordination Evaluation and Sustainable Development of “Three Waters” System and Impulse Response Analysis in the Yellow River Basin](https://doi.org/10.1016/j.scs.2024.105174)
@@ -44,7 +44,7 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environment Management. 2023</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment. 2024</div><img src='images/CCP.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/zixuanzhang/publication1)
@@ -56,7 +56,7 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production. 2023</div><img src='images/WEF.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production. 2024</div><img src='images/WEF.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatio-temporal Evolution Pattern and Obstacle Factors of Water-Energy-Food Nexus Coupling Coordination in the Yangtze River Economic Belt](https://doi.org/10.1016/j.jclepro.2024.141229)
@@ -82,7 +82,7 @@ Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Socie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2022</div><img src='images/PWQ.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science and Pollution Research. 2023</div><img src='images/PWQ.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](https://link.springer.com/article/10.1007/s11356-023-28664-w)
