@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
