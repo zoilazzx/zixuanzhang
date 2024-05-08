@@ -31,7 +31,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 - Multi-objective decision making&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; SPSS
   
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">European Journal of Operational Research. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">European Journal of Operational Research. 2024</div><img src='images/PCU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
   [Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective](/zixuanzhang/publicationPCU)
@@ -69,7 +69,7 @@ Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environmental Management. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environmental Management. 2024</div><img src='images/JEMGB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Research on Optimized Allocation of Wastewater Emission Permits Based on the "Three Waters": a case of the Yellow River Basin in China](/zixuanzhang/publicationJEM)
