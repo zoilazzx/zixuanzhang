@@ -22,7 +22,7 @@ redirect_from:
 </p>
 
 <p style="text-align: justify;">
-    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals,  **Computer Programming Languages**, **Big Data**, and **Artificial Intelligence**——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including **Operations Research**, **Game Theor**, **Remote Sensing Technology**, **Statistics**, **System Dynamics**, **Spatial Econometrics**, and **Managerial Economics**.
+    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals,  <strong>Computer Programming Languages</strong>, <strong>Big Data</strong>, and <strong>Artificial Intelligence</strong>——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including <strong>Operations Research</strong>, <strong>Game Theory</strong>, <strong>Remote Sensing Technology</strong>, <strong>Statistics</strong>, <strong>System Dynamics</strong>, <strong>Spatial Econometrics</strong>, and <strong>Managerial Economics</strong>.
 </p>
 
 **Here is my:** [curriculum vitae](/zixuanzhang/pdf/Zixuan ZHANG--CV.pdf)
@@ -51,15 +51,22 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part A: Policy and Practice. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Transportation Research Part A: Policy and Practice. 2024</div>
+            <img src='images/THW.svg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1" style="text-align: justify;">
 
 [Implications of supplier encroachment for strategies in upgraded products introduction](/zixuanzhang/publicationSun)
 
 Lin Sun, `Zixuan Zhang`*. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
--	**Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
+
+- **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
-- **Resluts:** Revealed was the presence of vertical competition introduced by the retailer, which led to lower incentives for the manufacturer to upgrade products. Also found was that, contrary to conventional wisdom, horizontal competition did not necessarily lead to increased incentives for the manufacturer to invest in product upgrading.
+- **Results:** Revealed was the presence of vertical competition introduced by the retailer, which led to lower incentives for the manufacturer to upgrade products. Also found was that, contrary to conventional wisdom, horizontal competition did not necessarily lead to increased incentives for the manufacturer to invest in product upgrading.
 
 </div>
 </div>
