@@ -28,7 +28,7 @@ author_profile: true
     <p class="title">Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin</p>
     <p><span style="color: grey;">Dec,2023</span></p>
     <div align="center">
-      <img src='images/Graphical Abstract.jpg' alt="sym" width="60%">
+      <img src='images/abstract.jpg' alt="sym" width="60%">
     </div>
     <p class="highlight"><strong>Highlights</strong></p>
     <ul>
