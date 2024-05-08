@@ -49,7 +49,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 
 [Implications of supplier encroachment for strategies in upgraded products introduction](/zixuanzhang/publicationSun)
 
-Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
+Lin Sun, `Zixuan Zhang`*. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
 -	**Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
 - **Resluts:** Revealed was the presence of vertical competition introduced by the retailer, which led to lower incentives for the manufacturer to upgrade products. Also found was that, contrary to conventional wisdom, horizontal competition did not necessarily lead to increased incentives for the manufacturer to invest in product upgrading.
