@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -16,8 +15,9 @@ author_profile: true
             text-align: justify;
         }
         .title {
-            font-size: 22px;
-            text-align: center;
+            font-size: 24px;
+            text-align: left;
+            font-weight: bold;   
         }
         .highlight {
             font-size: 20px;
