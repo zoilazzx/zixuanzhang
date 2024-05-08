@@ -13,7 +13,9 @@ Tujiang River Basin High-Quality Development Research Center Project`
 
 <span style="font-size:16px;">**Abstract**</span>
 
+<span style="text-align: justify;">
 Water pollutant emission permits (WPEPs) allocation is a competing limited consumption resource designed to address the issues of reconciling water pollution with economic development. In the wake of growing conflicts, a pressing challenge is how to motivate stakeholders associated with the basin to establish a balance between economic development and environmental preservation. Based on the unidirectional flow of basin pollution, this study established a bidirectional ecological compensation (BEC) mechanism that includes key water pollution indicators (WPEPs allocation volume). By this integrated model, a multi-objective optimisation framework for balancing the fairness and economic efficiency of WPEPs allocation under the BEC synergy mechanism is presented. Selecting the Tuojiang River basin in China as the study case, this project analysed the allocation results and ecological compensation mechanisms under different allocation preferences to verify the model’s validity and applicability.
+</span>
 
 **Key words:** Water pollutant emission permits, Bidirectional ecological compensation mechanism, Multi-objective optimization, Allocation strategy
 
