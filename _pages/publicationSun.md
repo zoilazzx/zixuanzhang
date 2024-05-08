@@ -27,9 +27,9 @@ author_profile: true
 <body>
     <p class="title">Implications of supplier encroachment for strategies in upgraded products introduction</p>
     <p><span style="color: grey;">Apr,2024</span></p>
-    <div align="center">
+    <!-- <div align="center">
       <img src='images/highQ.png' alt="sym" width="60%">
-    </div>
+    </div> -->
     <p class="highlight"><strong>Highlights</strong></p>
     <ul>
         <li>Explored the impact of internet and IT-driven supplier encroachment on reduced manufacturer incentives for product upgrades within increased vertical competition.</li>
