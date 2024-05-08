@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received a B.S. degree in Medical Information Engineering from Chengdu University of Traditional Chinese Medicine in 2022. Currently, I am working toward an M.S. degree in Management Science and Engineering at Chengdu University of Technology with an expected graduation in June 2025.
+<p style="text-align: justify;">
+    I received a B.S. degree in Medical Information Engineering from Chengdu University of Traditional Chinese Medicine in 2022. Currently, I am working toward an M.S. degree in Management Science and Engineering at Chengdu University of Technology with an expected graduation in June 2025.
+</p>
 
-Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, **Computer Programming Languages**, **Big Data**, and **Artificial Intelligence**——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including **Operations Research**, **Game Theor**, **Remote Sensing Technology**, **Statistics**, **System Dynamics**, **Spatial Econometrics**, and **Managerial Economics**.
+<p style="text-align: justify;">
+    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, <code>Computer Programming Languages</code>, <code>Big Data</code>, and <code>Artificial Intelligence</code>——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including <code>Operations Research</code>, <code>Game Theory</code>, <code>Remote Sensing Technology</code>, <code>Statistics</code>, <code>System Dynamics</code>, <code>Spatial Econometrics</code>, and <code>Managerial Economics</code>.
+</p>
 
 **Here is my:** [curriculum vitae](/zixuanzhang/pdf/Zixuan ZHANG--CV.pdf)
 
