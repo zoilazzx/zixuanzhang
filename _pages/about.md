@@ -50,8 +50,7 @@ redirect_from:
 
 - **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
 - **Methods:** Extended the PCU model with undesirable outputs to a novel input and output-oriented long-run PCU measurement with by-product technology. Introduced an environmental PCU measure to capture the possible capacity of economic growth and pollution control. Explored factors influencing agricultural production efficiency using panel regression models, revealing the mechanisms behind their impacts.
-- **Results:** 
-  - Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
+- **Results:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
 
 </div>
 </div>
@@ -67,7 +66,7 @@ redirect_from:
 
 [Implications of supplier encroachment for strategies in upgraded products introduction](/zixuanzhang/publicationSun)
 
-Lin Sun, `Zixuan Zhang*`. Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
+Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
 
 - **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
@@ -191,10 +190,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 - **Keywords:** Water, Sewage discharge right, Collaborative allocation, Equity, Multi-objective optimization
 - **Methods:** Developed a multi-objective optimization model incorporating sewage discharge rights into watershed water resource allocation. Utilized the Gini coefficient to balance equity and economic aspects across water sectors, considering distinct water demands and sewage discharge requirements.
-- **Results:** 
-  - Simultaneous optimization of Gini coefficients for water demand and sewage discharge rights allocation with consistent trends.
-  - The increased importance of sewage discharge improves fairness in water distribution but reduces the return on investment for domestic and industrial water use.
-  - Proper allocation of sewage discharge rights enhances the economic value of agricultural water use. This strategy holds promise for improving both equality and economic benefits in the water supply system, ensuring sustainable water and sewage rights utilization in basin cities.
+- **Results:** Simultaneous optimization of Gini coefficients for water demand and sewage discharge rights allocation with consistent trends. The increased importance of sewage discharge improves fairness in water distribution but reduces the return on investment for domestic and industrial water use. Proper allocation of sewage discharge rights enhances the economic value of agricultural water use. This strategy holds promise for improving both equality and economic benefits in the water supply system, ensuring sustainable water and sewage rights utilization in basin cities.
 
 </div>
 </div>
@@ -207,45 +203,40 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 - **Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
 - **Key Contributions:** 
-  - (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
-  - (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022.
-  - (3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions.
-  - (4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
-- **Achievements:** 
-  - Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation.
+   (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
+   (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022.
+   (3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions.
+   (4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
+- **Achievements:** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation.
 
 [Study of the Allocation Strategy of Water Pollutant Emission Permits in Tuojiang River Basin by Coordinating Water Resources, Water Environment and Water Ecological Management](/zixuanzhang/project2)
 
 - **Core Member**, **Supervisor:** `Xue Feng`, Deputy Sector Chief of the College of Management Science
 - **Key Contributions:** 
-  - (1) Conducted literature review on three waters nexus, ecological compensation, and pollutant emission permits.
-  - (2) Collected and cleaned data for 17 years from six major cities in the Tuojiang River Basin.
-  - (3) Proposed integrating bidirectional ecological compensation mechanism with water pollutant emission permits allocation model.
-  - (4) Assisted in drafting the research results section and project report.
-- **Achievements:** 
-  - Published a paper (co-author) - Feng, X., Li, Y., Chen, X., Lv, Y., `Zhang, Z`., & Chen, S. (2023). Study of the allocation strategy of water pollutant emission permits under a bidirectional ecological compensation mechanism. Ecological Indicators, 154, 110849.
+   (1) Conducted literature review on three waters nexus, ecological compensation, and pollutant emission permits.
+   (2) Collected and cleaned data for 17 years from six major cities in the Tuojiang River Basin.
+   (3) Proposed integrating bidirectional ecological compensation mechanism with water pollutant emission permits allocation model.
+   (4) Assisted in drafting the research results section and project report.
+- **Achievements:** Published a paper (co-author) - Feng, X., Li, Y., Chen, X., Lv, Y., `Zhang, Z`., & Chen, S. (2023). Study of the allocation strategy of water pollutant emission permits under a bidirectional ecological compensation mechanism. Ecological Indicators, 154, 110849.
   
 [Research of the Allocation Strategy of Water Pollutant Emission Permits Considering Ecological Compensation Mechanism Driven by Big Data - Taking Tuojiang River Basin as an Example](/zixuanzhang/project3)
 
 - **Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
 - **Key Contributions:** 
-  - (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap.
-  - (2) Assisted in developing a data-driven optimization scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts.
-  - (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualization, table creation, and writing the conclusion section of the paper.
-- **Achievements:** 
-  - Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
+   (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap.
+   (2) Assisted in developing a data-driven optimization scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts.
+   (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualization, table creation, and writing the conclusion section of the paper.
+- **Achievements:** Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
 
 [Chronic Gastritis AI Data Mining and Processing](/zixuanzhang/project4)
 
 - **Team Leader**, **Supervisor:** `Chuanbiao Wen`, Vice President of the College of Medical Information Engineering
 - **Key Contributions:** 
-  - (1) Conducted literature review on chronic gastritis pathology and AI data analysis, identifying research gaps.
-  - (2) Collected and anonymized data from 210 chronic gastritis cases.
-  - (3) Utilized SPSS for statistical data analysis and Origin for data visualization.
-  - (4) Coordinated team tasks, supervised team members, and conducted weekly work progress presentations.
-- **Achievements:** 
-  - (1) Co-authored a project proposal.
-  - (2) Awarded the National-level First Prize in the 14th China Collegiate Computing Design Competition.
+   (1) Conducted literature review on chronic gastritis pathology and AI data analysis, identifying research gaps.
+   (2) Collected and anonymized data from 210 chronic gastritis cases.
+   (3) Utilized SPSS for statistical data analysis and Origin for data visualization.
+   (4) Coordinated team tasks, supervised team members, and conducted weekly work progress presentations.
+- **Achievements:** (1) Co-authored a project proposal. (2) Awarded the National-level First Prize in the 14th China Collegiate Computing Design Competition.
 
 # 🎓 Educations 
 - *2022.09 - 2025.06*, Master, School of Management Science and Engineering, Chengdu University of Technology, Chengdu China.
