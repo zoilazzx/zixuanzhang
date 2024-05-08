@@ -201,7 +201,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 [Research on Key Issues and Paths for Systemic Transformation in Sichuan Province under the Dual Carbon Goal](/zixuanzhang/project1)
 
-- **Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
+- **Core Member**, **Supervisor:** Xudong Chen, Vice President of the College of Management Science
 - **Key Contributions:** 
    - (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
    - (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022.
@@ -211,7 +211,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 [Study of the Allocation Strategy of Water Pollutant Emission Permits in Tuojiang River Basin by Coordinating Water Resources, Water Environment and Water Ecological Management](/zixuanzhang/project2)
 
-- **Core Member**, **Supervisor:** `Xue Feng`, Deputy Sector Chief of the College of Management Science
+- **Core Member**, **Supervisor:** Xue Feng, Deputy Sector Chief of the College of Management Science
 - **Key Contributions:** 
   - (1) Conducted literature review on three waters nexus, ecological compensation, and pollutant emission permits.
   - (2) Collected and cleaned data for 17 years from six major cities in the Tuojiang River Basin.
@@ -222,7 +222,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
   
 [Research of the Allocation Strategy of Water Pollutant Emission Permits Considering Ecological Compensation Mechanism Driven by Big Data - Taking Tuojiang River Basin as an Example](/zixuanzhang/project3)
 
-- **Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
+- **Core Member**, **Supervisor:** Xudong Chen, Vice President of the College of Management Science
 - **Key Contributions:** 
   - (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap.
   - (2) Assisted in developing a data-driven optimization scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts.
@@ -232,7 +232,7 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 [Chronic Gastritis AI Data Mining and Processing](/zixuanzhang/project4)
 
-- **Team Leader**, **Supervisor:** `Chuanbiao Wen`, Vice President of the College of Medical Information Engineering
+- **Team Leader**, **Supervisor:** Chuanbiao Wen, Vice President of the College of Medical Information Engineering
 - **Key Contributions:** 
   - (1) Conducted literature review on chronic gastritis pathology and AI data analysis, identifying research gaps.
   - (2) Collected and anonymized data from 210 chronic gastritis cases.
