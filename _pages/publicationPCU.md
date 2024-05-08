@@ -27,9 +27,9 @@ author_profile: true
 <body>
     <p class="title">Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective</p>
     <p><span style="color: grey;">Apr,2024</span></p>
-    <div align="center">
+    <<!-- <div align="center">
       <img src='images/highQ.png' alt="sym" width="60%">
-    </div>
+    </div> -->
     <p class="highlight"><strong>Highlights</strong></p>
     <ul>
         <li>The comprehensive evaluation index system for agricultural high-quality development was established.</li>
