@@ -28,7 +28,7 @@ author_profile: true
     <p class="title">Research on optimized allocation of wastewater emission permits based on the "Three Waters", a case study of the Yellow River Basin in China</p>
     <p><span style="color: grey;">Mar,2024</span></p>
     <div align="center">
-      <img src='images/highQ.png' alt="sym" width="60%">
+      <img src='images/JEM.png' alt="sym" width="60%">
     </div>
     <p class="highlight"><strong>Highlights</strong></p>
     <ul>
