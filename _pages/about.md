@@ -34,8 +34,7 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">European Journal of Operational Research. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective]
-(/zixuanzhang/publication1)
+  [Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective](/zixuanzhang/publicationPCU)
 
 `Zixuan Zhang`, Lin Wang, Yue Li. *European Journal of Operational Research*. **(SCI, IF=6.4, Q1 TOP)**
 -	**Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
@@ -48,13 +47,12 @@ Throughout my undergraduate studies, I gained a solid understanding of medical f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part A: Policy and Practice. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Implications of supplier encroachment for strategies in upgraded products introduction]
-(/zixuanzhang/publication1)
+[Implications of supplier encroachment for strategies in upgraded products introduction](/zixuanzhang/publicationSun)
 
 Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
 -	**Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
-- **Methods:** Established a coupling coordination model and employed Vector Auto Regression (VAR) to analyse key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
-- **Resluts:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
+- **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
+- **Resluts:** Revealed was the presence of vertical competition introduced by the retailer, which led to lower incentives for the manufacturer to upgrade products. Also found was that, contrary to conventional wisdom, horizontal competition did not necessarily lead to increased incentives for the manufacturer to invest in product upgrading.
 
 </div>
 </div>
@@ -67,15 +65,14 @@ Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*.
 `Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Science of The Total Environment*. **(SCI, IF=9.8, Q1 TOP)**
 -	**Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
 - **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
-- **Resluts:** There are significant differences in agricultural capacity utilisation (PCU) between provinces, with Shandong, Henan, Jilin and Heilongjiang provinces demonstrating strong agricultural output capacity. The level of PCU is relatively high in the central region, followed by the eastern region, while the western region performs the worst. The factors of environmental investment, urbanisation rate, government support, and scientific and technological development affect the capacity utilisation rate to different degrees. 
+- **Resluts:** The research findings indicate that from 2005 to 2020, the TWSCC levels across the nine provinces in the YRB consistently exhibited varying degrees of overload. The alert levels mostly remained in "Heavy warning" or "Medium warning" states. By 2035, the TWSCC under four development paths are improved from 2020, with the Green Environmental Protection-Oriented scheme reaching a safe carrying capacity level. 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Environmental Management. 2024</div><img src='images/THW.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Optimized Allocation of Wastewater Emission Permits Based on the "Three Waters": a case of the Yellow River Basin in China]
-(/zixuanzhang/publication1)
+[Research on Optimized Allocation of Wastewater Emission Permits Based on the "Three Waters": a case of the Yellow River Basin in China](/zixuanzhang/publicationJEM)
 
 Yue Li, `Zixuan Zhang`, Qiufeng Zhang, Xue Feng. *Journal of Environmental Management*. **(SCI, IF=8.7, Q2 TOP)**
 -	**Keywords:** "Wastewater emission permits, Multi-objective optimized allocation, "Three Waters" system, Ecological compensation, Yellow River Basin
