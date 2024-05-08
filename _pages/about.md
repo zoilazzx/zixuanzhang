@@ -203,40 +203,44 @@ Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Poll
 
 - **Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
 - **Key Contributions:** 
-   (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
-   (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022.
-   (3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions.
-   (4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
+   - (1) Collected and organised data from 2018 to 2022, including population, economic, and eight types of energy consumption data in Sichuan Province.
+   - (2) Utilised the IPCC carbon emission calculation method to quantify carbon emissions in Sichuan Province from 2018 to 2022.
+   - (3) Developed a carbon emission driving factor decomposition model and applied the Logarithmic Mean Divisia Index (LMDI) method to analyse the contribution and trends of various factors to carbon emissions.
+   - (4) Drafted Chapter Four of the project proposal, involving tasks such as table generation, data analysis, and technical roadmap creation.
 - **Achievements:** Completed a project proposal and secured funding from the Sichuan Provincial Natural Science Foundation.
 
 [Study of the Allocation Strategy of Water Pollutant Emission Permits in Tuojiang River Basin by Coordinating Water Resources, Water Environment and Water Ecological Management](/zixuanzhang/project2)
 
 - **Core Member**, **Supervisor:** `Xue Feng`, Deputy Sector Chief of the College of Management Science
 - **Key Contributions:** 
-   (1) Conducted literature review on three waters nexus, ecological compensation, and pollutant emission permits.
-   (2) Collected and cleaned data for 17 years from six major cities in the Tuojiang River Basin.
-   (3) Proposed integrating bidirectional ecological compensation mechanism with water pollutant emission permits allocation model.
-   (4) Assisted in drafting the research results section and project report.
-- **Achievements:** Published a paper (co-author) - Feng, X., Li, Y., Chen, X., Lv, Y., `Zhang, Z`., & Chen, S. (2023). Study of the allocation strategy of water pollutant emission permits under a bidirectional ecological compensation mechanism. Ecological Indicators, 154, 110849.
+  - (1) Conducted literature review on three waters nexus, ecological compensation, and pollutant emission permits.
+  - (2) Collected and cleaned data for 17 years from six major cities in the Tuojiang River Basin.
+  - (3) Proposed integrating bidirectional ecological compensation mechanism with water pollutant emission permits allocation model.
+  - (4) Assisted in drafting the research results section and project report.
+- **Achievements:** 
+  - Published a paper (co-author) - Feng, X., Li, Y., Chen, X., Lv, Y., `Zhang, Z`., & Chen, S. (2023). Study of the allocation strategy of water pollutant emission permits under a bidirectional ecological compensation mechanism. Ecological Indicators, 154, 110849.
   
 [Research of the Allocation Strategy of Water Pollutant Emission Permits Considering Ecological Compensation Mechanism Driven by Big Data - Taking Tuojiang River Basin as an Example](/zixuanzhang/project3)
 
 - **Core Member**, **Supervisor:** `Xudong Chen`, Vice President of the College of Management Science
 - **Key Contributions:** 
-   (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap.
-   (2) Assisted in developing a data-driven optimization scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts.
-   (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualization, table creation, and writing the conclusion section of the paper.
-- **Achievements:** Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
+  - (1) Conducted literature review on big data analytics, ecological compensation, and pollutant emission permits, outlining the research framework and drawing a technical roadmap.
+  - (2) Assisted in developing a data-driven optimization scheme for pollutant emission permits, designing a non-dominated sorting genetic algorithm based on data analysis, and creating algorithm flowcharts.
+  - (3) Contributed to the writing of the research report, including the use of ArcGIS and Origin software for data analysis visualization, table creation, and writing the conclusion section of the paper.
+- **Achievements:** 
+  - Li, Y., Chen, X., Feng, X., Lv, Y., `Zhang, Z`., & Qi, Q. (2023). Investigation of the allocation and trading strategy of wastewater emission permits considering ecological compensation. Environmental Technology & Innovation, 30, 103103.
 
 [Chronic Gastritis AI Data Mining and Processing](/zixuanzhang/project4)
 
 - **Team Leader**, **Supervisor:** `Chuanbiao Wen`, Vice President of the College of Medical Information Engineering
 - **Key Contributions:** 
-   (1) Conducted literature review on chronic gastritis pathology and AI data analysis, identifying research gaps.
-   (2) Collected and anonymized data from 210 chronic gastritis cases.
-   (3) Utilized SPSS for statistical data analysis and Origin for data visualization.
-   (4) Coordinated team tasks, supervised team members, and conducted weekly work progress presentations.
-- **Achievements:** (1) Co-authored a project proposal. (2) Awarded the National-level First Prize in the 14th China Collegiate Computing Design Competition.
+  - (1) Conducted literature review on chronic gastritis pathology and AI data analysis, identifying research gaps.
+  - (2) Collected and anonymized data from 210 chronic gastritis cases.
+  - (3) Utilized SPSS for statistical data analysis and Origin for data visualization.
+  - (4) Coordinated team tasks, supervised team members, and conducted weekly work progress presentations.
+- **Achievements:** 
+  - (1) Co-authored a project proposal.
+  - (2) Awarded the National-level First Prize in the 14th China Collegiate Computing Design Competition.
 
 # 🎓 Educations 
 - *2022.09 - 2025.06*, Master, School of Management Science and Engineering, Chengdu University of Technology, Chengdu China.
