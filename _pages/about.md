@@ -22,7 +22,7 @@ redirect_from:
 </p>
 
 <p style="text-align: justify;">
-    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals, <code>Computer Programming Languages</code>, <code>Big Data</code>, and <code>Artificial Intelligence</code>——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including <code>Operations Research</code>, <code>Game Theory</code>, <code>Remote Sensing Technology</code>, <code>Statistics</code>, <code>System Dynamics</code>, <code>Spatial Econometrics</code>, and <code>Managerial Economics</code>.
+    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals,  **Computer Programming Languages**, **Big Data**, and **Artificial Intelligence**——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including **Operations Research**, **Game Theor**, **Remote Sensing Technology**, **Statistics**, **System Dynamics**, **Spatial Econometrics**, and **Managerial Economics**.
 </p>
 
 **Here is my:** [curriculum vitae](/zixuanzhang/pdf/Zixuan ZHANG--CV.pdf)
@@ -42,9 +42,12 @@ redirect_from:
 
 `Zixuan Zhang`, Lin Wang, Yue Li. *European Journal of Operational Research*. **(SCI, IF=6.4, Q1 TOP)**
 -	**Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
+<p style="text-align: justify;">
 - **Methods:**  Extended the PCU model with undesirable outputs to a novel input and output-oriented long-run PCU measurement with by-product technology. Introduced an environmental PCU measure to capture the possible capacity of economic growth and pollution control. Explored factors influencing agricultural production efficiency using panel regression models, revealing the mechanisms behind their impacts.
+</p>
+<p style="text-align: justify;">
 - **Resluts:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
-
+</p>
 </div>
 </div>
 
