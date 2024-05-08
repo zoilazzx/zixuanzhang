@@ -15,7 +15,7 @@ author_profile: true
             text-align: justify;
         }
         .title {
-            font-size: 24px;
+            font-size: 26px;
             text-align: left;
             font-weight: bold;   
         }
