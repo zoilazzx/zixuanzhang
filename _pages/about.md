@@ -46,7 +46,7 @@ redirect_from:
 
 [Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective](/zixuanzhang/publicationPCU)
 
-`Zixuan Zhang`, Lin Wang, Yue Li. *European Journal of Operational Research*. **(SCI, IF=6.4, Q1 TOP)**
+`Zixuan Zhang`, Lin Wang, Yue Li. *Omega*. **(SCI, IF=6.4, JCR Q1 TOP)**
 
 - **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
 - **Methods:** Extended the PCU model with undesirable outputs to a novel input and output-oriented long-run PCU measurement with by-product technology. Introduced an environmental PCU measure to capture the possible capacity of economic growth and pollution control. Explored factors influencing agricultural production efficiency using panel regression models, revealing the mechanisms behind their impacts.
@@ -66,7 +66,7 @@ redirect_from:
 
 [Implications of supplier encroachment for strategies in upgraded products introduction](/zixuanzhang/publicationSun)
 
-Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, Q1 TOP)**
+Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(SCI, IF=6.4, JCR Q1 TOP)**
 
 - **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
@@ -86,7 +86,7 @@ Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*.
 
 [Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/zixuanzhang/publication1)
 
-`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Science of The Total Environment*. **(SCI, IF=9.8, Q1 TOP)**
+`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Science of The Total Environment*. **(SCI, IF=9.8, JCR Q1 TOP)**
 
 - **Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
 - **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
@@ -106,7 +106,7 @@ Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*.
 
 [Research on Optimized Allocation of Wastewater Emission Permits Based on the "Three Waters": a case of the Yellow River Basin in China](/zixuanzhang/publicationJEM)
 
-Yue Li, `Zixuan Zhang`, Qiufeng Zhang, Xue Feng. *Journal of Environmental Management*. **(SCI, IF=8.7, Q2 TOP)**
+Yue Li, `Zixuan Zhang`, Qiufeng Zhang, Xue Feng. *Journal of Environmental Management*. **(SCI, IF=8.7, JCR Q2 TOP)**
 
 - **Keywords:** "Wastewater emission permits, Multi-objective optimized allocation, "Three Waters" system, Ecological compensation, Yellow River Basin
 - **Methods:** An innovative scheme was proposed for the allocation of WEPs and ecological compensation, considering the coordinated development of the TWS in the watershed. The scheme was solved and analyzed using the improved NSGA-II multi-objective optimization algorithm and TOPSIS decision theory.
@@ -126,7 +126,7 @@ Yue Li, `Zixuan Zhang`, Qiufeng Zhang, Xue Feng. *Journal of Environmental Manag
 
 [Coupling Coordination Evaluation and Sustainable Development of “Three Waters” System and Impulse Response Analysis in the Yellow River Basin](https://doi.org/10.1016/j.scs.2024.105174)
 
-Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*. **(SCI, IF=11.7, Q1 TOP)**
+Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities and Society*. **(SCI, IF=11.7, JCR Q1 TOP)**
 
 - **Keywords:** "Three Water" system, Coupled coordination, Impulse response, Evaluation indicator, Yellow River Basin
 - **Methods:** Established a coupling coordination model and employed Vector Auto Regression (VAR) to analyze key indicators' influence on the sustainable development of the “Three Waters” system (TWS) from 2005 to 2021.
@@ -146,7 +146,7 @@ Yue Li, Yangxi Lv, `Zixuan Zhang`, Xue Feng, Xudong Chen. *Sustainable Cities an
 
 [Spatio-temporal Evolution Pattern and Obstacle Factors of Water-Energy-Food Nexus Coupling Coordination in the Yangtze River Economic Belt](https://doi.org/10.1016/j.jclepro.2024.141229)
 
-Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal of Cleaner Production*. **(SCI, IF=11.1, Q1 TOP)**
+Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal of Cleaner Production*. **(SCI, IF=11.1, JCR Q1 TOP)**
 
 - **Keywords:** WEF nexus, Coupling coordination degree, Spatio-temporal differentiation, Obstacle degree, Sustainable development
 - **Methods:** Developed a framework to categorize links within the Water-Energy-Food (WEF) nexus, selecting indicators and integrated models. Applied this framework to assess the degree of coordination and diagnose obstacles in the coupled development of the WEF nexus from 2000 to 2020 in the Yangtze River Economic Belt.
@@ -166,7 +166,7 @@ Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal
 
 [Analysis on the coupling coordination characteristics and key factors between high-quality economic development and water resource carrying capacity for cities in the Yangtze River Basin](/zixuanzhang/publication2)
 
-Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*. **(SCI, IF=11.7, Q1 TOP)**
+Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*. **(SCI, IF=11.7, JCR Q1 TOP)**
 
 - **Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
 - **Methods:** Utilized the CRITIC-TOPSIS method to compute comprehensive indices for high-quality economic development and water resource carrying capacity in 53 cities. Employed coupling models, coordination measures, and a random panel Tobit regression model to evaluate and analyze the spatiotemporal characteristics and influencing factors affecting coordination.
@@ -186,7 +186,7 @@ Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Socie
 
 [Collaborative Optimal Allocation of Water Resources and Sewage Discharge Rights in Watershed Cities: Considering Equity among Water Sectors](https://link.springer.com/article/10.1007/s11356-023-28664-w)
 
-Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*. **(SCI, IF=5.19, Q2)**
+Mingkang Yuan, Yue Li, `Zixuan Zhang`, Lin Wang. *Environmental Science and Pollution Research*. **(SCI, IF=5.19, JCR Q2)**
 
 - **Keywords:** Water, Sewage discharge right, Collaborative allocation, Equity, Multi-objective optimization
 - **Methods:** Developed a multi-objective optimization model incorporating sewage discharge rights into watershed water resource allocation. Utilized the Gini coefficient to balance equity and economic aspects across water sectors, considering distinct water demands and sewage discharge requirements.
