@@ -22,7 +22,7 @@ redirect_from:
 </p>
 
 <p style="text-align: justify;">
-    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals,  <strong>Computer Programming Languages</strong>, <strong>Big Data</strong>, and <strong>Artificial Intelligence</strong>——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including <strong>Operations Research</strong>, <strong>Game Theory</strong>, <strong>Remote Sensing Technology</strong>, <strong>Statistics</strong>, <strong>System Dynamics</strong>, <strong>Spatial Econometrics</strong>, and <strong>Managerial Economics</strong>.
+    Throughout my undergraduate studies, I gained a solid understanding of medical fundamentals,  <strong>Computer Programming Languages</strong>, <strong>Big Data</strong>, and <strong>Artificial Intelligence</strong>——the foundational theories of modern information science. In my master's program, I have further accumulated knowledge in various fields, including <strong>Operations Research</strong>, <strong>Game Theory</strong>, <strong>Remote Sensing Technology</strong>, <strong>Statistics</strong>, <strong>Econometrics</strong>, <strong>Spatial Econometrics</strong>, and <strong>Applied Economics</strong>.
 </p>
 
 **Here is my:** [curriculum vitae](/zixuanzhang/pdf/Ziyuan Zhang-CV-5.9(clean).pdf)
@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">European Journal of Operational Research. 2024</div>
+            <div class="badge">Omega. 2024</div>
             <img src='images/PCU.png' alt="sym" width="100%">
         </div>
     </div>
