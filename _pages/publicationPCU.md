@@ -25,7 +25,7 @@ author_profile: true
     </style>
 </head>
 <body>
-    <p class="title">Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective</p>
+    <p class="title">Capacity utilization and environmental impacts in: An empirical analysis of Chinese agriculture</p>
     <p><span style="color: grey;">Apr,2024</span></p>
     <!-- <div align="center">
       <img src='images/highQ.png' alt="sym" width="60%">
