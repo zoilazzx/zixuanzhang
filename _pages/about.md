@@ -44,13 +44,13 @@ redirect_from:
     </div>
     <div class='paper-box-text' markdown="1" style="text-align: justify;">
 
-[Assessment and Determinants of Agricultural Plant Capacity Utilization in China: A Carbon Emission Perspective](/zixuanzhang/publicationPCU)
+[Capacity utilization and environmental impacts in: An empirical analysis of Chinese agriculture](/zixuanzhang/publicationPCU)
 
-`Zixuan Zhang`, Lin Wang, Yue Li. *Omega*. **(IF=6.4, JCR Q1 TOP)**
+`Zixuan Zhang`, Xudong Chen, Zhiyang Shen. *Omega*. **(IF=6.4, JCR Q1 TOP)**
 
-- **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
-- **Methods:** Extended the PCU model with undesirable outputs to a novel input and output-oriented long-run PCU measurement with by-product technology. Introduced an environmental PCU measure to capture the possible capacity of economic growth and pollution control. Explored factors influencing agricultural production efficiency using panel regression models, revealing the mechanisms behind their impacts.
-- **Results:** Positive trends were observed in the comprehensive development of TWS. Coupling ranges from good to high-quality, and coordination progresses from near-dysfunctional to highly coordinated. The research revealed alternating effects of GDP water consumption and wastewater treatment rates on the water resources-water environment system and enduring promotional effects of sewage treatment rates and urban greening coverage on the water environment-water ecology subsystem. The findings lay the groundwork for innovative strategies to enhance the integrated and coordinated advancement of the TWS in the Yellow River Basin.
+- **Keywords:** Agricultural capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
+- **Methods:** Integrated economic and environmental factors to evaluate capacity utilization (CU) in Chinese agriculture. Extended the CU model to include undesirable outputs and measured long-run CU using input and output-oriented exponential by-production technology. Spatial characteristics of agricultural capacity utilization (ACU) were assessed, and a panel Tobit regression model was employed to examine factors influencing ACU.
+- **Results:** Revealed significant disparities in ACU among Chinese provinces, with Shandong, Henan, Jilin, and Heilongjiang showing notable levels of ACU. The central region exhibited higher ACU levels, followed by the east, while the west performed poorly. Factors such as environmental investment, urbanization rate, government support, and R&D investment variably affected ACU, highlighting diverse impacts on agricultural efficiency and sustainability.
 
 </div>
 </div>
@@ -68,7 +68,7 @@ redirect_from:
 
 Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(IF=6.4, JCR Q1 TOP)**
 
-- **Keywords:** "Plant capacity utilization, Data envelopment analysis, Agriculture Overcapacity, Environmental externality
+- **Keywords:** Competitive strategy, Dual-channel supply chain, Durable goods, Game theory
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
 - **Results:** Revealed was the presence of vertical competition introduced by the retailer, which led to lower incentives for the manufacturer to upgrade products. Also found was that, contrary to conventional wisdom, horizontal competition did not necessarily lead to increased incentives for the manufacturer to invest in product upgrading.
 
