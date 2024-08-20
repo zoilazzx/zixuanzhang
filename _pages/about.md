@@ -84,7 +84,7 @@ Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*.
     </div>
     <div class='paper-box-text' markdown="1" style="text-align: justify;">
 
-[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](/zixuanzhang/publication1)
+[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](https://doi.org/10.1016/j.scitotenv.2024.175464)
 
 `Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Science of The Total Environment*. **(IF=9.8, JCR Q1 TOP)**
 
