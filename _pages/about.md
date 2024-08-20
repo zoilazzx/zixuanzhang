@@ -66,7 +66,7 @@ redirect_from:
 
 [Implications of supplier encroachment for strategies in upgraded products introduction](/zixuanzhang/publicationSun)
 
-Lin Sun, `Zixuan Zhang*`. *Transportation Research Part A: Policy and Practice*. **(IF=6.4, JCR Q1 TOP)**
+ `Zixuan Zhang`, Lin Sun, Wei Yan. *Transportation Research Part A: Policy and Practice*. **(IF=6.4, JCR Q1 TOP)**
 
 - **Keywords:** Competitive strategy, Dual-channel supply chain, Durable goods, Game theory
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
