@@ -38,6 +38,26 @@ redirect_from:
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
+            <div class="badge">Science of The Total Environment. 2024</div>
+            <img src='images/CCP.svg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1" style="text-align: justify;">
+
+[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](https://doi.org/10.1016/j.scitotenv.2024.175464)
+
+`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Science of The Total Environment*. **(IF=9.8, JCR Q1 TOP)**
+
+- **Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
+- **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
+- **Results:** The research findings indicate that from 2005 to 2020, the TWSCC levels across the nine provinces in the YRB consistently exhibited varying degrees of overload. The alert levels mostly remained in "Heavy warning" or "Medium warning" states. By 2035, the TWSCC under four development paths are improved from 2020, with the Green Environmental Protection-Oriented scheme reaching a safe carrying capacity level. 
+
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
             <div class="badge">Omega. 2024</div>
             <img src='images/PCU.png' alt="sym" width="100%">
         </div>
@@ -71,26 +91,6 @@ redirect_from:
 - **Keywords:** Competitive strategy, Dual-channel supply chain, Durable goods, Game theory
 - **Methods:** Provided an alternative yet complementary approach to analyze upgraded product introduction strategies in a dual-channel supply chain. Specifically, the focus was on addressing how internal competition (including vertical and horizontal competition) in a dual-channel supply chain created strategic issues in product upgrading that were significantly different from external competition from the market.
 - **Results:** Revealed was the presence of vertical competition introduced by the retailer, which led to lower incentives for the manufacturer to upgrade products. Also found was that, contrary to conventional wisdom, horizontal competition did not necessarily lead to increased incentives for the manufacturer to invest in product upgrading.
-
-</div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Science of The Total Environment. 2024</div>
-            <img src='images/CCP.svg' alt="sym" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text' markdown="1" style="text-align: justify;">
-
-[Comprehensive Evaluation of "Three Waters" Carrying Capacity and Path Evolution Study: A Case of the Yellow River Basin](https://doi.org/10.1016/j.scitotenv.2024.175464)
-
-`Zixuan Zhang`, Yue Li, Yangxi Lv, Xue Feng, Xudong Chen. *Science of The Total Environment*. **(IF=9.8, JCR Q1 TOP)**
-
-- **Keywords:** "Three Waters" System, Carrying Capacity, Alert Analysis, Pathway Evolution, System Dynamics
-- **Methods:** Developed the Three Waters System Carrying Capacity (TWSCC) index using entropy weight-TOPSIS, SCIE, and ArcGIS tools. Analysed spatiotemporal variations and proposed differentiated developmental pathways. Applied System Dynamics modelling for dynamic simulation from 2020 to 2035.
-- **Results:** The research findings indicate that from 2005 to 2020, the TWSCC levels across the nine provinces in the YRB consistently exhibited varying degrees of overload. The alert levels mostly remained in "Heavy warning" or "Medium warning" states. By 2035, the TWSCC under four development paths are improved from 2020, with the Green Environmental Protection-Oriented scheme reaching a safe carrying capacity level. 
 
 </div>
 </div>
