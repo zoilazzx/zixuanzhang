@@ -164,11 +164,11 @@ Yangxi Lv,  Yue Li, `Zixuan Zhang`, Shimiao Luo, Xue Feng, Xudong Chen. *Journal
     </div>
     <div class='paper-box-text' markdown="1" style="text-align: justify;">
 
-[Analysis on the coupling coordination characteristics and key factors between high-quality economic development and water resource carrying capacity for cities in the Yangtze River Basin](/zixuanzhang/publication2)
+[Coordinating high-quality economic development and water resources carrying capacity in the Yangtze River Basin cities: Achieving sustainable development goals](https://doi.org/10.1016/j.ejrh.2025.102502)
 
-Yang Shuhui, `Zixuan Zhang`, Yu Keyao, Zhigang Li. *Sustainable Cities and Society*. **(IF=11.7, JCR Q1 TOP)**
+Yang Shuhui, Zhigang Li, `Zixuan Zhang`. *Journal of Hydrology: Regional Studies*. **(IF=5.0, JCR Q2)**
 
-- **Keywords:** High-quality economic development, Water resources carrying capacity, Coupled coordination relationships, Basin cities
+- **Keywords:** Sustainable development goals, High-quality economic development, Water resources carrying capacity, Coupling coordination, Key factors
 - **Methods:** Utilized the CRITIC-TOPSIS method to compute comprehensive indices for high-quality economic development and water resource carrying capacity in 53 cities. Employed coupling models, coordination measures, and a random panel Tobit regression model to evaluate and analyze the spatiotemporal characteristics and influencing factors affecting coordination.
 - **Results:** Cities in the Yangtze River Basin exhibit an upgraded coupling coordination level, shifting from dispersion to concentration. Hotspots are concentrated downstream, while cold spots are in the middle and upper reaches. Regional aggregation capacity, economic development level, and urban greenery positively influence coordination in mainstream, tributary, and central basin cities, respectively. Environmental governance capacity negatively impacts coordination in tributary cities. The study provides decision-making references for planning and construction in the Yangtze River Basin cities.
 
