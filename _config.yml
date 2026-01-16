@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zixuan Zhang"
 description              : "Technical University of Munich"
-url                      : "https://www.cee.ed.tum.de/en/hydrologie/guest/zixuan-zhang/"
+url                      : #https://www.cee.ed.tum.de/en/hydrologie/guest/zixuan-zhang/
 repository               : "zoilazzx.github.io/zixuanzhang/"
 google_scholar_stats_use_cdn : false
 
@@ -31,7 +31,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=cwS4iU0AAAAJ&hl"
   email            : "zixuanzhang0120@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Zixuan-Zhang-77"
-  uri              : 
+  url              : "https://www.cee.ed.tum.de/en/hydrologie/guest/zixuan-zhang/"
   bitbucket        :
   codepen          :
   dribbble         :
