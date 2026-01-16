@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zixuan Zhang"
-description              : "Chengdu University of Technology."
+description              : "Technical University of Munich."
 url                      : #https://zoilazzx.github.io/zixuanzhang.github.io/
 repository               : "zoilazzx.github.io/zixuanzhang/"
 google_scholar_stats_use_cdn : false
@@ -24,11 +24,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zixuan Zhang"
   avatar           : "images/zzx.jpg"
-  bio              : "Graduate student"
-  location         : "Chengdu, China"
+  bio              : "PhD student"
+  location         : "Munich, Germany"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cwS4iU0AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=cwS4iU0AAAAJ&hl"
   email            : "zixuanzhang0120@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Zixuan-Zhang-77"
   uri              : 
