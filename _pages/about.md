@@ -75,7 +75,7 @@ redirect_from:
 </div>
 </div>
 
-/**
+<!-- 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -95,7 +95,7 @@ redirect_from:
 
 </div>
 </div>
-*/
+-->
 
 <div class='paper-box'>
     <div class='paper-box-image'>
